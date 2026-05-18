@@ -122,9 +122,6 @@ def contribute_page():
         else:
             st.warning("Please enter some content")
 
-
-
-
 def debate_page():
     st.header("Debate with an AI partner!")
     class Message:
