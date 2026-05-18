@@ -6,16 +6,16 @@ Due to the impromptu nature of American parliamentary debate (APD), existing res
 
 Requirements for the software and other tools to build, test and push 
 
-pip install psychopg2
-pip install os
-pip install openai
-pip install langchain
-pip install uvicorn
-pip install chromadb
-pip install tiktoken
-pip install fastapi
-pip install pydantic
-pip install fastapi_utils
+    pip install psychopg2
+    pip install os
+    pip install openai
+    pip install langchain
+    pip install uvicorn
+    pip install chromadb
+    pip install tiktoken
+    pip install fastapi
+    pip install pydantic
+    pip install fastapi_utils
     
 ## Contributors
 
